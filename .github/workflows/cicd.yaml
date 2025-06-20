@@ -6,7 +6,7 @@ name: CI/CD
 on:
   push:
     branches:
-      - main
+      - main1
     paths-ignore:
       - 'helm/**'
       - 'k8s/**'
